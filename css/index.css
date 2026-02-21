@@ -17,3 +17,13 @@
     padding: 30px;
     cursor: pointer;
 }
+
+/* 2 button css */
+.btn-3{
+     background-color: lightskyblue;
+    border-style: dotted;
+    border-radius: 110px 90px 20px 150px;
+    font-size: 20px;
+    padding: 30px;
+    cursor: pointer;
+}
