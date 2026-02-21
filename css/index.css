@@ -38,3 +38,13 @@
     cursor: pointer;
 }
 
+/* 5 button css */
+.btn-5{
+    background-color:lightgreen;
+    border-style:groove;
+    border-radius: 70px 130px 60px 1225px;
+    font-size: 40px;
+    padding: 50px;
+    padding-left: 60px;
+    cursor: pointer;
+}
