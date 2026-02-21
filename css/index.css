@@ -5,4 +5,15 @@
     border-radius: 20px 2px 20px 2px;
     font-size: 20px;
     padding: 20px;
+    cursor: pointer;
+}
+
+/* 2 button css */
+.btn-2{
+    background-color: lightseagreen;
+    border-style: dashed;
+    border-radius: 30px 40px 90px 100px;
+    font-size: 20px;
+    padding: 30px;
+    cursor: pointer;
 }
